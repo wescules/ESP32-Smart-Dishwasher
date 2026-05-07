@@ -23,3 +23,6 @@ WiFi-connected dishwasher controller with customizable cycles, live web UI, and 
 3. Upload to ESP32
 4. Open Serial Monitor to get IP address
 5. Visit `http://<IP>` in browser
+
+  
+ <img width="2096" height="1258" alt="wifidishwasher diagram" src="https://github.com/user-attachments/assets/15c4e38c-861e-4c88-8c4c-e412cd9a298d" />
